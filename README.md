@@ -52,7 +52,9 @@ Interact with Akira using voice commands or text input. Use the wake word or typ
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, please fork the repository and submit a pull request. Ensure your changes are well-documented and tested.2.  **Install Dependencies**
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please fork the repository and submit a pull request. Ensure your changes are well-documented and tested.
+
+2.  **Install Dependencies**
     
     Ensure you have Python installed, then set up a virtual environment (optional but recommended):
     
